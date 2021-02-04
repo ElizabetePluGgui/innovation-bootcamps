@@ -13,3 +13,15 @@ body {
   margin: 5px;
   cursor: pointer;
 }
+.jogador.vencedor {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  background: rgb(189, 189, 189);
+  cursor: pointer;
+}
