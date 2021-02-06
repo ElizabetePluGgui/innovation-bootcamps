@@ -1,4 +1,5 @@
-var jogador = null;
+var jogador,
+  vencedor = null;
 var jogadorSelecionado = document.getElementById('jogador-selecionado');
 var vencedorSelecionado = document.getElementById('vencedor-selecionado');
 
@@ -8,6 +9,7 @@ function escolherQuadrado(id) {
   if (vencedor !== null) {
     return;
   }
+
   var quadrado = document.getElementById(id);
   if (quadrado.innerHTML !== '-') {
     return;
@@ -21,6 +23,7 @@ function escolherQuadrado(id) {
   } else {
     jogador = 'X';
   }
+
   mudarJogador(jogador);
   checaVencedor();
 }
