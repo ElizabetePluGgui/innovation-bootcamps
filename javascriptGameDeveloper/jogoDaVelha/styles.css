@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background: #1a1a1a;
+  height: 888px;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 h1 {
   color: rgb(235, 235, 235);
@@ -9,8 +10,8 @@ h1 {
 .quadrado {
   text-align: center;
   width: 50px;
-  background: rgb(168, 14, 27);
-  color: rgb(168, 14, 27);
+  background: rgb(1, 180, 150);
+  color: rgb(1, 180, 150);
   display: inline-block;
   padding: 40px;
   font-size: 60px;
@@ -31,8 +32,10 @@ button {
   margin-top: 10px;
   width: 420px;
   height: 50px;
+  border: solid 1px #ff6dff;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 16px 0 rgba(0, 0, 0, 0.19);
   border-radius: 5px;
   color: rgb(235, 235, 235);
-  background: rgb(168, 14, 27);
+  background: #ff80bf;
   cursor: pointer;
 }
