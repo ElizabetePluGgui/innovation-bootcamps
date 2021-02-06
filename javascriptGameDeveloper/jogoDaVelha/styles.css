@@ -1,27 +1,38 @@
 body {
   text-align: center;
-  background: rgb(242, 245, 244);
+  background: #1a1a1a;
+}
+h1 {
+  color: rgb(235, 235, 235);
+  font-size: 60px;
 }
 .quadrado {
   text-align: center;
   width: 50px;
-  background: rgb(189, 189, 189);
-  color: rgb(189, 189, 189);
+  background: rgb(168, 14, 27);
+  color: rgb(168, 14, 27);
   display: inline-block;
   padding: 40px;
   font-size: 60px;
   margin: 5px;
   cursor: pointer;
+  border-radius: 5px;
 }
 .jogador.vencedor {
   font-size: 30px;
   margin-top: 10px;
 }
-
+label {
+  font-size: 40px;
+  color: rgb(235, 235, 235);
+}
 button {
+  font-size: 30px;
   margin-top: 10px;
-  width: 100px;
-  height: 30px;
-  background: rgb(189, 189, 189);
+  width: 420px;
+  height: 50px;
+  border-radius: 5px;
+  color: rgb(235, 235, 235);
+  background: rgb(168, 14, 27);
   cursor: pointer;
 }
