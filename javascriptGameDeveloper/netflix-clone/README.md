@@ -2,4 +2,4 @@
 
 ## Linguagens utilizadas HTML, CSS e JavaScript.
 
-![jogo-velha](jogo-velha.png 'jogo-velha')
+![DeskTop](desktop.png 'Desktop')
