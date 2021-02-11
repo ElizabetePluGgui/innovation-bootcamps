@@ -1,7 +1,9 @@
-# Clone da Tela inicial do Instagram
+<h1 align="center">Clone da Tela inicial do Instagram</h1>
 
-## 🚀 Let's code! 🚀
+<h2 align="center">🚀 Let's code! 🚀</h2>
 
-## Linguagens utilizadas HTML, CSS e JavaScript.
+<h2 align="center">Linguagens utilizadas HTML, CSS e JavaScript.</h2>
 
-![instagram](instagram.png 'instagram')
+<p align="center">
+<img src="instagram.png " alt="Instagram">
+</p>
