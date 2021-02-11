@@ -1,5 +1,9 @@
-# Jogo da Velha
+<h1 align="center">Jogo da Velha</h1>
 
-## Linguagens utilizadas HTML, CSS e JavaScript.
+<h2 align="center">🚀 Let's code! 🚀</h2>
 
-![jogo-velha](jogo-velha.png 'jogo-velha')
+<h2 align="center">Linguagens utilizadas HTML, CSS e JavaScript.</h2>
+
+<p align="center">
+<img src="jogo-velha.png" alt="jogo-velha">
+</p>
